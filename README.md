@@ -1,2 +1,1 @@
-# piholeblocklist
-Blocking Lists for PiHole
+Blocking lists for PiHole
